@@ -96,27 +96,27 @@
         }
       ],
       "sender": "emu@learnwithsumit.com",
-      "message": "ok ja",
-      "timestamp": 1663570640444,
+      "message": "hi",
+      "timestamp": 1663575322385,
       "id": 1
     },
     {
-      "participants": "emu@learnwithsumit.com-ammu@gmail.com",
+      "participants": "ammu@gmail.com-emu@learnwithsumit.com",
       "users": [
-        {
-          "email": "emu@learnwithsumit.com",
-          "name": "Emu",
-          "id": 4
-        },
         {
           "email": "ammu@gmail.com",
           "name": "Ammu",
           "id": 11
+        },
+        {
+          "email": "emu@learnwithsumit.com",
+          "name": "Emu",
+          "id": 4
         }
       ],
-      "sender": "emu@learnwithsumit.com",
-      "message": "im fine",
-      "timestamp": 1663571971595,
+      "sender": "ammu@gmail.com",
+      "message": "hi",
+      "timestamp": 1663575329376,
       "id": 2
     }
   ],
@@ -582,6 +582,139 @@
       "message": "im fine",
       "timestamp": 1663571971595,
       "id": 28
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "ammu@gmail.com",
+        "name": "Ammu",
+        "id": 11
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "im also fine",
+      "timestamp": 1663575034285,
+      "id": 29
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "nitu@learnwithsumit.com",
+        "password": "$2a$10$K/zAuhDxBTDhusbJ3HmfEOeajJCKIMxZk4aFEXgvqJ3l59tBwjfgC",
+        "name": "Nitu",
+        "id": 5
+      },
+      "message": "hello",
+      "timestamp": 1663575045761,
+      "id": 30
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "ammu@gmail.com",
+        "name": "Ammu",
+        "id": 11
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "ok",
+      "timestamp": 1663575077336,
+      "id": 31
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "nitu@learnwithsumit.com",
+        "password": "$2a$10$K/zAuhDxBTDhusbJ3HmfEOeajJCKIMxZk4aFEXgvqJ3l59tBwjfgC",
+        "name": "Nitu",
+        "id": 5
+      },
+      "message": "lorem ipsum...",
+      "timestamp": 1663575110241,
+      "id": 32
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "nitu@learnwithsumit.com",
+        "password": "$2a$10$K/zAuhDxBTDhusbJ3HmfEOeajJCKIMxZk4aFEXgvqJ3l59tBwjfgC",
+        "name": "Nitu",
+        "id": 5
+      },
+      "message": "hi",
+      "timestamp": 1663575230673,
+      "id": 33
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "ammu@gmail.com",
+        "password": "$2a$10$XsjixArWPRJgTcGCXKqwT.yAFlqn6S5p2FaVRnjX5DrmVolbt9dJ6",
+        "name": "Ammu",
+        "id": 11
+      },
+      "message": "hi",
+      "timestamp": 1663575239416,
+      "id": 34
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "nitu@learnwithsumit.com",
+        "password": "$2a$10$K/zAuhDxBTDhusbJ3HmfEOeajJCKIMxZk4aFEXgvqJ3l59tBwjfgC",
+        "name": "Nitu",
+        "id": 5
+      },
+      "message": "hi",
+      "timestamp": 1663575322385,
+      "id": 35
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "ammu@gmail.com",
+        "name": "Ammu",
+        "id": 11
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "hi",
+      "timestamp": 1663575329376,
+      "id": 36
     }
   ]
 }
