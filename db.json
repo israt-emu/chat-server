@@ -1,0 +1,587 @@
+{
+  "users": [
+    {
+      "email": "sumit@learnwithsumit.com",
+      "password": "$2a$10$CtHS.yCGS80jiuZx8yKEI.5zdiZykHF/6aPTDqpHl6ZqEFGISOHKO",
+      "name": "Sumit Saha",
+      "id": 1
+    },
+    {
+      "email": "akash@learnwithsumit.com",
+      "password": "$2a$10$CtHS.yCGS80jiuZx8yKEI.5zdiZykHF/6aPTDqpHl6ZqEFGISOHKO",
+      "name": "Akash Ahmed",
+      "id": 2
+    },
+    {
+      "email": "saad@learnwithsumit.com",
+      "password": "$2a$10$CtHS.yCGS80jiuZx8yKEI.5zdiZykHF/6aPTDqpHl6ZqEFGISOHKO",
+      "name": "Saad Hasan",
+      "id": 3
+    },
+    {
+      "email": "emu@learnwithsumit.com",
+      "password": "$2a$10$6gaGXwzscaKXHFpOJ1FOpeYQxftRRQoQh9lKdhJebS1YsJrrcS7Bm",
+      "name": "Emu",
+      "id": 4
+    },
+    {
+      "email": "nitu@learnwithsumit.com",
+      "password": "$2a$10$K/zAuhDxBTDhusbJ3HmfEOeajJCKIMxZk4aFEXgvqJ3l59tBwjfgC",
+      "name": "Nitu",
+      "id": 5
+    },
+    {
+      "email": "alif@learnwithsumit.com",
+      "password": "$2a$10$ZtznWpspqhhNgpn55EzQzOnk/vuT5hQ7NrpBcxAUggLj1WKmLmqIC",
+      "name": "Alif",
+      "id": 6
+    },
+    {
+      "email": "tusar@gmail.com",
+      "password": "$2a$10$6/Oqwi3kFwrMyM9dB4VMFOU0SNccT33vLLFlxFW7hwO6gETeee1Yi",
+      "name": "Tushar",
+      "id": 7
+    },
+    {
+      "email": "rimu@gmail.com",
+      "password": "$2a$10$7KASyUVk/PM0YyNbBJU20.KG3pYfshA1/0fp4n7WWE5bcg5Q/mIme",
+      "name": "Rimu",
+      "id": 8
+    },
+    {
+      "email": "ravina@gmail.com",
+      "password": "$2a$10$3vjXFVGMxJG1WQMqP5n11Orenx19GqIquFtilqiDTfejOM1nlI.fm",
+      "name": "Ravina",
+      "id": 9
+    },
+    {
+      "email": "elora@gmail.com",
+      "password": "$2a$10$7Akm0aknTkjP.MRL27E7Bu2RgdGwUVTwNaBJ6eQfcERivps3ZNeLK",
+      "name": "elora",
+      "id": 10
+    },
+    {
+      "email": "ammu@gmail.com",
+      "password": "$2a$10$XsjixArWPRJgTcGCXKqwT.yAFlqn6S5p2FaVRnjX5DrmVolbt9dJ6",
+      "name": "Ammu",
+      "id": 11
+    },
+    {
+      "email": "abbu@gmail.com",
+      "password": "$2a$10$NBKwjXlNcN8qna4ZdhYr.u2lJi1wCMtdJBeYx2DvS61MV00EwEs8K",
+      "name": "Abbu",
+      "id": 12
+    },
+    {
+      "email": "shyma@gmail.com",
+      "password": "$2a$10$iXnfHhLyLBqRtXxBXZ.2yeWIOVzkCKrwocKm5Z1B8VdCLKCmSYlSq",
+      "name": "Shyma",
+      "id": 13
+    }
+  ],
+  "conversations": [
+    {
+      "participants": "emu@learnwithsumit.com-nitu@learnwithsumit.com",
+      "users": [
+        {
+          "email": "emu@learnwithsumit.com",
+          "name": "Emu",
+          "id": 4
+        },
+        {
+          "email": "nitu@learnwithsumit.com",
+          "password": "$2a$10$K/zAuhDxBTDhusbJ3HmfEOeajJCKIMxZk4aFEXgvqJ3l59tBwjfgC",
+          "name": "Nitu",
+          "id": 5
+        }
+      ],
+      "sender": "emu@learnwithsumit.com",
+      "message": "ok ja",
+      "timestamp": 1663570640444,
+      "id": 1
+    },
+    {
+      "participants": "emu@learnwithsumit.com-ammu@gmail.com",
+      "users": [
+        {
+          "email": "emu@learnwithsumit.com",
+          "name": "Emu",
+          "id": 4
+        },
+        {
+          "email": "ammu@gmail.com",
+          "name": "Ammu",
+          "id": 11
+        }
+      ],
+      "sender": "emu@learnwithsumit.com",
+      "message": "im fine",
+      "timestamp": 1663571971595,
+      "id": 2
+    }
+  ],
+  "messages": [
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "nitu@learnwithsumit.com",
+        "password": "$2a$10$K/zAuhDxBTDhusbJ3HmfEOeajJCKIMxZk4aFEXgvqJ3l59tBwjfgC",
+        "name": "Nitu",
+        "id": 5
+      },
+      "message": "hello nitu",
+      "timestamp": 1663569207202,
+      "id": 1
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "nitu@learnwithsumit.com",
+        "name": "Nitu",
+        "id": 5
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "hi apu",
+      "timestamp": 1663569238469,
+      "id": 2
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "nitu@learnwithsumit.com",
+        "password": "$2a$10$K/zAuhDxBTDhusbJ3HmfEOeajJCKIMxZk4aFEXgvqJ3l59tBwjfgC",
+        "name": "Nitu",
+        "id": 5
+      },
+      "message": "ki korish",
+      "timestamp": 1663569304462,
+      "id": 3
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "nitu@learnwithsumit.com",
+        "name": "Nitu",
+        "id": 5
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "varsity te aschi",
+      "timestamp": 1663569331605,
+      "id": 4
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "nitu@learnwithsumit.com",
+        "password": "$2a$10$K/zAuhDxBTDhusbJ3HmfEOeajJCKIMxZk4aFEXgvqJ3l59tBwjfgC",
+        "name": "Nitu",
+        "id": 5
+      },
+      "message": "Ajke koyta class",
+      "timestamp": 1663569344226,
+      "id": 5
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "ammu@gmail.com",
+        "password": "$2a$10$XsjixArWPRJgTcGCXKqwT.yAFlqn6S5p2FaVRnjX5DrmVolbt9dJ6",
+        "name": "Ammu",
+        "id": 11
+      },
+      "message": "ammu",
+      "timestamp": 1663569360901,
+      "id": 6
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "ammu@gmail.com",
+        "name": "Ammu",
+        "id": 11
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "ha bol",
+      "timestamp": 1663569408429,
+      "id": 7
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "ammu@gmail.com",
+        "password": "$2a$10$XsjixArWPRJgTcGCXKqwT.yAFlqn6S5p2FaVRnjX5DrmVolbt9dJ6",
+        "name": "Ammu",
+        "id": 11
+      },
+      "message": "ki koren",
+      "timestamp": 1663569418133,
+      "id": 8
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "ammu@gmail.com",
+        "name": "Ammu",
+        "id": 11
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "kichu na",
+      "timestamp": 1663569467581,
+      "id": 9
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "ammu@gmail.com",
+        "name": "Ammu",
+        "id": 11
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "tui khaichis?",
+      "timestamp": 1663569472789,
+      "id": 10
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "ammu@gmail.com",
+        "password": "$2a$10$XsjixArWPRJgTcGCXKqwT.yAFlqn6S5p2FaVRnjX5DrmVolbt9dJ6",
+        "name": "Ammu",
+        "id": 11
+      },
+      "message": "khabo ejtu pore",
+      "timestamp": 1663569482462,
+      "id": 11
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "ammu@gmail.com",
+        "password": "$2a$10$XsjixArWPRJgTcGCXKqwT.yAFlqn6S5p2FaVRnjX5DrmVolbt9dJ6",
+        "name": "Ammu",
+        "id": 11
+      },
+      "message": "*ektu",
+      "timestamp": 1663569489389,
+      "id": 12
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "ammu@gmail.com",
+        "password": "$2a$10$XsjixArWPRJgTcGCXKqwT.yAFlqn6S5p2FaVRnjX5DrmVolbt9dJ6",
+        "name": "Ammu",
+        "id": 11
+      },
+      "message": "apni khaichen?",
+      "timestamp": 1663569503877,
+      "id": 13
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "ammu@gmail.com",
+        "name": "Ammu",
+        "id": 11
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "na",
+      "timestamp": 1663569571356,
+      "id": 14
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "ammu@gmail.com",
+        "name": "Ammu",
+        "id": 11
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "barite kobe ashbi",
+      "timestamp": 1663569578020,
+      "id": 15
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "ammu@gmail.com",
+        "name": "Ammu",
+        "id": 11
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "onekdin ashis na",
+      "timestamp": 1663569626828,
+      "id": 16
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "ammu@gmail.com",
+        "password": "$2a$10$XsjixArWPRJgTcGCXKqwT.yAFlqn6S5p2FaVRnjX5DrmVolbt9dJ6",
+        "name": "Ammu",
+        "id": 11
+      },
+      "message": "ashbo sumit er course sesh hok",
+      "timestamp": 1663569671525,
+      "id": 17
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "ammu@gmail.com",
+        "password": "$2a$10$XsjixArWPRJgTcGCXKqwT.yAFlqn6S5p2FaVRnjX5DrmVolbt9dJ6",
+        "name": "Ammu",
+        "id": 11
+      },
+      "message": "samne exam o ache",
+      "timestamp": 1663569679901,
+      "id": 18
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "ammu@gmail.com",
+        "password": "$2a$10$XsjixArWPRJgTcGCXKqwT.yAFlqn6S5p2FaVRnjX5DrmVolbt9dJ6",
+        "name": "Ammu",
+        "id": 11
+      },
+      "message": "abbur stahe kotha hoiche?",
+      "timestamp": 1663569689661,
+      "id": 19
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "ammu@gmail.com",
+        "name": "Ammu",
+        "id": 11
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "ajke ekhono phone koreni",
+      "timestamp": 1663569714284,
+      "id": 20
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "ammu@gmail.com",
+        "password": "$2a$10$XsjixArWPRJgTcGCXKqwT.yAFlqn6S5p2FaVRnjX5DrmVolbt9dJ6",
+        "name": "Ammu",
+        "id": 11
+      },
+      "message": "accha",
+      "timestamp": 1663569735236,
+      "id": 21
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "ammu@gmail.com",
+        "password": "$2a$10$XsjixArWPRJgTcGCXKqwT.yAFlqn6S5p2FaVRnjX5DrmVolbt9dJ6",
+        "name": "Ammu",
+        "id": 11
+      },
+      "message": "thikache class e jai",
+      "timestamp": 1663569744292,
+      "id": 22
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "ammu@gmail.com",
+        "name": "Ammu",
+        "id": 11
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "accha ja",
+      "timestamp": 1663569752028,
+      "id": 23
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "nitu@learnwithsumit.com",
+        "name": "Nitu",
+        "id": 5
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "2 ta",
+      "timestamp": 1663569782204,
+      "id": 24
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "ammu@gmail.com",
+        "password": "$2a$10$XsjixArWPRJgTcGCXKqwT.yAFlqn6S5p2FaVRnjX5DrmVolbt9dJ6",
+        "name": "Ammu",
+        "id": 11
+      },
+      "message": "ok",
+      "timestamp": 1663570431221,
+      "id": 25
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "ammu@gmail.com",
+        "name": "Ammu",
+        "id": 11
+      },
+      "receiver": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "message": "ok",
+      "timestamp": 1663570898960,
+      "id": 26
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "ammu@gmail.com",
+        "name": "Ammu",
+        "id": 11
+      },
+      "message": "kal ashbo",
+      "timestamp": 1663571238324,
+      "id": 27
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "emu@learnwithsumit.com",
+        "name": "Emu",
+        "id": 4
+      },
+      "receiver": {
+        "email": "ammu@gmail.com",
+        "name": "Ammu",
+        "id": 11
+      },
+      "message": "im fine",
+      "timestamp": 1663571971595,
+      "id": 28
+    }
+  ]
+}
